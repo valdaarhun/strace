@@ -1,0 +1,3 @@
+#value_indexed
+TIPC_CLUSTER_SCOPE	2
+TIPC_NODE_SCOPE		3

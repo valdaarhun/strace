@@ -1,0 +1,4 @@
+#value_indexed
+TIPC_SERVICE_RANGE      1
+TIPC_SERVICE_ADDR       2
+TIPC_SOCKET_ADDR        3
